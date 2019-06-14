@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mazegeek/Desktop/C-Problem-Solving/untitled2/main.cpp
+iostream
+-
+ostream
+-
+string
+-
+sstream
+-
+iterator
+-
+map
+-
+
