@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/LenearSearch.cpp" "/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/LenearSearch.cpp.o"
   "/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/main.cpp" "/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

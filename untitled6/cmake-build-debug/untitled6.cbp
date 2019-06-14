@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/LenearSearch.cpp">
+			<Option target="untitled6"/>
+		</Unit>
 		<Unit filename="/Users/mazegeek/Desktop/C:CPP-Problem-Solving/untitled6/main.cpp">
 			<Option target="untitled6"/>
 		</Unit>

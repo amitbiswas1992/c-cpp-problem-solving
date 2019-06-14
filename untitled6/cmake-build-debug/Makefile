@@ -123,6 +123,33 @@ untitled6/fast:
 	$(MAKE) -f CMakeFiles/untitled6.dir/build.make CMakeFiles/untitled6.dir/build
 .PHONY : untitled6/fast
 
+LenearSearch.o: LenearSearch.cpp.o
+
+.PHONY : LenearSearch.o
+
+# target to build an object file
+LenearSearch.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled6.dir/build.make CMakeFiles/untitled6.dir/LenearSearch.cpp.o
+.PHONY : LenearSearch.cpp.o
+
+LenearSearch.i: LenearSearch.cpp.i
+
+.PHONY : LenearSearch.i
+
+# target to preprocess a source file
+LenearSearch.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled6.dir/build.make CMakeFiles/untitled6.dir/LenearSearch.cpp.i
+.PHONY : LenearSearch.cpp.i
+
+LenearSearch.s: LenearSearch.cpp.s
+
+.PHONY : LenearSearch.s
+
+# target to generate assembly for a file
+LenearSearch.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled6.dir/build.make CMakeFiles/untitled6.dir/LenearSearch.cpp.s
+.PHONY : LenearSearch.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled6"
+	@echo "... LenearSearch.o"
+	@echo "... LenearSearch.i"
+	@echo "... LenearSearch.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

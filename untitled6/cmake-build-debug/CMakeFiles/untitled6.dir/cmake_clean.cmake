@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled6.dir/main.cpp.o"
+  "CMakeFiles/untitled6.dir/LenearSearch.cpp.o"
   "untitled6.pdb"
   "untitled6"
 )
